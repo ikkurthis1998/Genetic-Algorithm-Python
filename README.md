@@ -90,3 +90,4 @@ The 8 important functions and thier usage is as follows:
               gen = Variables of all generations
         Usage: 
               To optimize objective function.
+Give apprpriate objective function and input variables in INPUT ARENA to get the minima and plot contours.
